@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetsohailcodes" alt="meetsohailcodes" /></a> </p>
 
-- 🔭 I'm currently working on **Easymony** — an offline-first personal finance app for iOS & Android
+- 🔭 I'm currently working on **Easymony** — an offline-first personal finance app for iOS & Android 
 
 - 🌐 Check out my portfolio at **[tonystacks.com](https://tonystacks.com)**
 
